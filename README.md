@@ -7,6 +7,7 @@ Players compete by guessing movies from emoji clues, plot hints, and famous quot
 ---
 
 ## Live Demo
+https://guessthemovie-s6mbogikvw73pgpnnpz5bz.streamlit.app/
 
 ---
 
